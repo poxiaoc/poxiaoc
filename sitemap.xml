@@ -8,6 +8,13 @@
     
   </url>
   
+  <url>
+    <loc>http://example.com/2019/08/18/%E5%9F%BA%E4%BA%8ECentOS7%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    
+    <lastmod>2020-05-06</lastmod>
+    
+  </url>
+  
 
   <url>
     <loc>http://example.com/</loc>
@@ -17,6 +24,34 @@
   </url>
 
   
+  <url>
+    <loc>http://example.com/tags/HEXO/</loc>
+    <lastmod>2020-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/CentOS/</loc>
+    <lastmod>2020-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://example.com/categories/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/</loc>
+    <lastmod>2020-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/CentOS/</loc>
+    <lastmod>2020-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
