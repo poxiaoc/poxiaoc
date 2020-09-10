@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://poxiaoc.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://poxiaoc.github.io/"/>
   <updated>2020-09-06T12:45:45.619Z</updated>
-  <id>http://example.com/</id>
+  <id>https://poxiaoc.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/09/06/hello-world/"/>
-    <id>http://example.com/2020/09/06/hello-world/</id>
+    <link href="https://poxiaoc.github.io/2020/09/06/hello-world/"/>
+    <id>https://poxiaoc.github.io/2020/09/06/hello-world/</id>
     <published>2020-09-06T12:45:45.619Z</published>
     <updated>2020-09-06T12:45:45.619Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>基于CentOS7的Hexo博客搭建</title>
-    <link href="http://example.com/2019/08/18/%E5%9F%BA%E4%BA%8ECentOS7%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    <id>http://example.com/2019/08/18/%E5%9F%BA%E4%BA%8ECentOS7%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
+    <link href="https://poxiaoc.github.io/2019/08/18/%E5%9F%BA%E4%BA%8ECentOS7%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <id>https://poxiaoc.github.io/2019/08/18/%E5%9F%BA%E4%BA%8ECentOS7%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
     <published>2019-08-18T04:21:35.000Z</published>
     <updated>2020-05-06T11:45:06.299Z</updated>
     
@@ -50,14 +50,14 @@
     
     
     
-    <category term="博客部署" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/"/>
+    <category term="博客部署" scheme="https://poxiaoc.github.io/categories/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/"/>
     
-    <category term="CentOS" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/CentOS/"/>
+    <category term="CentOS" scheme="https://poxiaoc.github.io/categories/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/CentOS/"/>
     
     
-    <category term="HEXO" scheme="http://example.com/tags/HEXO/"/>
+    <category term="HEXO" scheme="https://poxiaoc.github.io/tags/HEXO/"/>
     
-    <category term="CentOS" scheme="http://example.com/tags/CentOS/"/>
+    <category term="CentOS" scheme="https://poxiaoc.github.io/tags/CentOS/"/>
     
   </entry>
   
